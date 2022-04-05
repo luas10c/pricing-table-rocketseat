@@ -10,7 +10,7 @@ The project was created with the intention of showing my knowledge in the follow
 
 ### Screenshots 
 View demo [Click Here](https://www.luas10c.github.io/pricing-table-rocketseat)
-![](screenshots/screenshot-1.png)
+![](screenshots/screenshot.png)
 
 ### LICENSE
 The MIT License (MIT)
